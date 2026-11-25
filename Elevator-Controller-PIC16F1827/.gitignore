@@ -1,0 +1,11 @@
+# MPLAB X IDE build output
+**/*.X/build/
+**/*.X/dist/
+**/*.X/debug/
+**/*.X/disassembly/
+**/*.X/.generated_files/
+**/*.X/nbproject/private/
+**/defmplabxtrace.log*
+*.o
+*.elf
+*.hex
